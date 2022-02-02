@@ -52,9 +52,6 @@ img:nth-child(even):hover{
     align-items: center;
     justify-content: center;
 }
-#shoreline{
-    background-image: url("images/north_shore.jpeg");
-}
 
 .trails_images_container{
     display: grid;
