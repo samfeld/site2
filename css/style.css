@@ -42,7 +42,7 @@ img{
     text-align: center;
 
   }
-div img:nth-child(even):hover{
+div img:nth-child(3):hover{
     box-shadow: 10px 10px 5px #d1caa4;
 }
 .container{
